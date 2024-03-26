@@ -18,3 +18,5 @@ Ligagia o interruptor 2 e iria verificar;
 
 Sem sair da sala colocaria a mão na lampada e constataria sua temperatura se ela estivesse esquentando o interruptor 2 a ligou, caso contrario já quente o interruptor 1 acabou de desliga-la e se frio, o interruptor 3, nesse caso nem sairia da sala;
 O mesmo caso se daria para as outras duas salas, verificaria nas duas idas a temperatura e seguiria o mesmo padrão de raciocinio acima, para ambas as salas.
+
+Teste de autenticação via SSH
